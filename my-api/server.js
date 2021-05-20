@@ -38,7 +38,7 @@ data.posts = [
   },
   {
     id: 'xyz-3',
-    content: "Random Post",
+    content: "Third Post - Hello again",
     userId: 'abc-2',
   }
 ];
@@ -46,11 +46,15 @@ data.posts = [
 data.users = [
   {
     id: 'abc-1', 
-    username: "andy25",
+    username: "Nur Syafiqah",
   },
   {
     id: 'abc-2', 
-    username: "randomUser",
+    username: "Nurhaziqah Hazirah",
+  },
+  {
+    id: 'abc-3', 
+    username: "Amal Azimah",
   }
 ];
 
